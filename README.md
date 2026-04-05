@@ -49,6 +49,8 @@ The API will be available at `http://localhost:8000/api/v1`.
 
 Base path: `/api/v1`
 
+Full API reference: [docs/api.md](docs/api.md)
+
 ### Auth
 
 - `POST /auth/register`
